@@ -41,3 +41,5 @@ Django tiene SQLite configurado como base de datos predeterminada de su proyecto
 
 - Python instalado.
 - Node.js y npm instalados.
+
+camb
